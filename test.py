@@ -1,0 +1,1 @@
+#This is the test for committing with the git bash terminal
